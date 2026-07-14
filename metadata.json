@@ -1,0 +1,6 @@
+{
+  "name": "Kaur Executive Intelligence OS",
+  "description": "An immersive interactive decision operating system representing Jaspinder Kaur's expertise in Finance, AI, and Strategy, featuring real-time executive scenario modeling and PunjabOS civic intelligence interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
